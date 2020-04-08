@@ -1,6 +1,6 @@
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-  <ShortName>Duden</ShortName>
+  <ShortName>Duden Direct</ShortName>
   <Description>Duden.de OpenSearch Direct</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <Image width="180" height="180" type="image/png">https://www.duden.de/sites/default/res/apple-touch-icon/180x180.png</Image>
